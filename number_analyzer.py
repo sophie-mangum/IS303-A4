@@ -29,7 +29,7 @@ Outputs:
 
 import math
 
-# ---------- Functions ----------
+# Functions
 
 def get_positive_int(prompt):
     """Get a valid positive integer."""
@@ -95,7 +95,7 @@ def display_report(numbers, average, minimum, maximum, number_range, above_avg):
     print(f"Numbers Above Average: {above_avg}")
 
 
-# ---------- Main Flow ----------
+# Main Flow
 
 print("=== Number Analyzer ===")
 

@@ -4,7 +4,7 @@ IS 303 - A04
 
 Dice Game
 This program lets the user play a dice game against the computer.
-The higher roll wins each round, and the program tracks the score.
+The higher roll wins each round and the program tracks the score.
 
 Inputs:
 - Number of rounds (int)
@@ -26,7 +26,7 @@ Outputs:
 
 import random
 
-# ---------- Functions ----------
+# Functions
 
 def get_positive_int(prompt):
     """Get a valid positive integer from the user."""
@@ -100,7 +100,7 @@ def display_final_results(player_score, computer_score, ties):
         print("The game ended in a tie!")
 
 
-# ---------- Main Flow ----------
+# Main flow
 
 print("=== Dice Game ===")
 
