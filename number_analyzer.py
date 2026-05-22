@@ -1,5 +1,5 @@
 '''
-Your Name
+Sophie Mangum
 IS 303 - A04
 
 Number Analyzer
